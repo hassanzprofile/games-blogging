@@ -42,7 +42,7 @@ Whether you're looking for an honest review before buying a game, the latest gam
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 This project is built using modern frontend technologies.
 
