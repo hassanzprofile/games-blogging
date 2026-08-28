@@ -1,0 +1,6 @@
+{
+  "name": "FreeToGame Cyber Hub",
+  "description": "Next-gen black and blue gaming portal featuring interactive scroll-linked background frame animations, vertical game showcase, screenshots preview, reviews, downloads, and Play Store redirection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
