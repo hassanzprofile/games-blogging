@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=GameZone+Blogs;Free+Games%2C+Reviews+%26+News" alt="Typing SVG" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=200&section=header&text=GameZone%20Blogs&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
