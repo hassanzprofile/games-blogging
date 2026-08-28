@@ -24,7 +24,7 @@
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 **GameZone Blogs** is a modern, free-to-read gaming blog platform built for gamers who love staying updated with the latest game reviews, news, and community discussions. The site features a sleek, animated UI with 3D-inspired visuals, smooth transitions, and a fully responsive design — making it easy to browse blogs, reviews, and game listings on any device.
 
@@ -32,16 +32,16 @@ Whether you're looking for an honest review before buying a game, the latest gam
 
 ---
 
-## ✨ Features
+## Features
 
-- 🕹️ Browse free and trending games with detailed cards
-- 📝 In-depth game blogs and articles
-- ⭐ User and editorial game reviews
-- 🎨 Smooth animated hero and section transitions
-- 🌌 3D-inspired interactive backgrounds
-- 📱 Fully responsive across mobile, tablet, and desktop
-- 📬 Contact section for feedback and collaboration
-- ⚡ Fast load times powered by Vite
+-  Browse free and trending games with detailed cards
+-  In-depth game blogs and articles
+-  User and editorial game reviews
+-  Smooth animated hero and section transitions
+-  3D-inspired interactive backgrounds
+-  Fully responsive across mobile, tablet, and desktop
+-  Contact section for feedback and collaboration
+-  Fast load times powered by Vite
 
 ---
 
@@ -50,26 +50,26 @@ Whether you're looking for an honest review before buying a game, the latest gam
 This project is built using modern frontend technologies.
 
 ### Frontend
-- **React** — Component based user interface
-- **TypeScript** — Type safe JavaScript development
-- **Vite** — Fast development and production build system
+- **React** ; Component based user interface
+- **TypeScript** ; Type safe JavaScript development
+- **Vite** ; Fast development and production build system
 
 ### Styling
-- **Tailwind CSS** — Utility first responsive styling
+- **Tailwind CSS**; Utility first responsive styling
 - Custom CSS
 - Responsive layouts
 - Modern UI effects
 - Gradients and glassmorphism inspired components
 
 ### Animation & Interaction
-- **Motion / Framer Motion** — Smooth UI animations and transitions
+- **Motion / Framer Motion** ; Smooth UI animations and transitions
 - Interactive hover effects
 - Scroll-based interactions
 - Animated components
 - Dynamic visual effects
 
 ### 3D / Graphics
-- **Three.js / React Three Fiber** — Interactive 3D experiences
+- **Three.js / React Three Fiber**  Interactive 3D experiences
 - Canvas-based visual elements
 - 3D-inspired backgrounds
 - Dynamic graphical effects
@@ -138,26 +138,25 @@ npm install
 npm run dev
 ```
 
-The site will now be running locally — open the link shown in your terminal (usually `http://localhost:5173`) to view it.
+The site will now be running locally ; open the link shown in your terminal (usually `http://localhost:3000`) to view it.
 
 ---
 
-## 🌐 Live Preview
+##  Live Preview
 
 Check out the live version here: **[games-blogging.vercel.app](https://games-blogging.vercel.app/)**
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/hassanzprofile/games-blogging/issues) if you'd like to contribute.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available for personal and educational use.
 
 ---
 
-<p align="center">Made with ❤️ for gamers, by gamers.</p>
