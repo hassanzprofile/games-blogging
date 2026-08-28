@@ -27,12 +27,12 @@ For precision tactical shooter fans, *Apex Protocol* delivers sub-10ms touch inp
 ---
 Stay tuned to FreeToGame Cyber Hub for weekly updates, patch notes, and esports guides!
 `,
-    author: 'Jax "CyberBlade" Vance',
-    authorAvatar: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80',
+    author: 'Jax',
+    authorAvatar: '',
     date: 'August 5, 2026',
     readTime: '5 min read',
     category: 'Tier Lists',
-    image: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Tier List', 'Top Games', 'Free-to-Play', '2026 Trends']
   },
   {
@@ -58,12 +58,12 @@ In competitive shooters like *Cyber Warzone 2099* and *Apex Protocol*, enabling 
 ---
 Follow these optimizations to achieve buttery smooth gameplay and dominate ranked matches!
 `,
-    author: 'Dr. Kai Sterling',
-    authorAvatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80',
+    author: 'Sterling',
+    authorAvatar: '',
     date: 'August 4, 2026',
     readTime: '6 min read',
     category: 'Guides',
-    image: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['120FPS', 'Hardware', 'Performance', 'Mobile Optimization']
   },
   {
@@ -87,12 +87,12 @@ Do not farm gold tier Artifact domains until your World Rank reaches Level 45. F
 - **Support**: Anemo Catalyst (Crowd control grouping)
 - **Healer**: Hydro Catalyst Maiden
 `,
-    author: 'Sora Lightbringer',
-    authorAvatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80',
+    author: 'Sora ',
+    authorAvatar: '',
     date: 'August 3, 2026',
     readTime: '7 min read',
     category: 'Guides',
-    image: 'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Aether Chronicles', 'Beginner Guide', 'RPG', 'Elemental Combos']
   },
   {
@@ -109,12 +109,12 @@ The new Cyber Ninja class has arrived in Neo-Tokyo! Equipped with active optical
 2. **New Tactical Equipment: Orbital EMP Beacon** - Temporarily disables enemy HUDs, optical scopes, and cybernetic abilities within a 100m radius.
 3. **Weapon Balance**: Increased pulse rifle velocity by 8%, reduced heavy shotgun spread by 5%.
 `,
-    author: 'Elena Rostova',
-    authorAvatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80',
+    author: 'Elena',
+    authorAvatar: '',
     date: 'August 1, 2026',
     readTime: '4 min read',
     category: 'Game Updates',
-    image: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Patch Notes', 'Update', 'Cyber Warzone', 'Classes']
   },
   {
@@ -141,12 +141,12 @@ Turn-based hex grid mech battles with full custom chassis kitbashing.
 ## 5. Shadow Blade: Shinobi
 Precision 2D platformer with lightning-fast wall bounces and grapple hooks.
 `,
-    author: 'Maya Lin',
-    authorAvatar: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&q=80',
+    author: 'Mayyaa',
+    authorAvatar: '',
     date: 'July 30, 2026',
     readTime: '5 min read',
     category: 'Tier Lists',
-    image: 'https://images.unsplash.com/photo-1551103782-8ab07afd45c1?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Indie Games', 'Hidden Gems', 'Free-to-Play', 'Pixel Art']
   },
   {
@@ -163,12 +163,12 @@ Burn rubber across high-voltage neon tracks in Season 5 of *Asphalt Cyber Racers
 - **New Track**: Tokyo Night Expressway featuring multi-tier elevated highway ramps and dynamic rain physics.
 - **Ranked Matchmaking Overhaul**: New Diamond and Grandmaster competitive leagues with exclusive seasonal cosmetics and vehicle vinyl decals.
 `,
-    author: 'Elena Rostova',
-    authorAvatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80',
+    author: 'Elen',
+    authorAvatar: '',
     date: 'July 27, 2026',
     readTime: '4 min read',
     category: 'Game Updates',
-    image: 'https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Asphalt Cyber', 'Patch Notes', 'Racing', 'Hypercars', 'Season 5']
   },
   {
@@ -182,12 +182,12 @@ The biggest free-to-play mobile esports tournament of the year is officially und
 
 Matches will be broadcast live in 4K 60FPS on the FreeToGame platform with exclusive drops and spectator mini-games.
 `,
-    author: 'Marcus Vance',
-    authorAvatar: 'https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=150&q=80',
+    author: 'Maria',
+    authorAvatar: '',
     date: 'July 25, 2026',
     readTime: '3 min read',
     category: 'Esports',
-    image: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Esports', 'Tokyo 2026', 'Tournament', 'Prize Pool']
   },
   {
@@ -204,12 +204,12 @@ Cross-platform play is no longer a luxury—it's an industry standard. In 2026, 
 - **Unified Controls**: Smart UI remapping automatically adapts HUD layouts when switching between touch controls, gamepads, and mouse/keyboard.
 - **Direct Server Matching**: Ping-based matchmaking connects players regardless of platform hardware while preserving competitive input fairness.
 `,
-    author: 'Jax "CyberBlade" Vance',
-    authorAvatar: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80',
+    author: 'Jaxer',
+    authorAvatar: '',
     date: 'July 20, 2026',
     readTime: '5 min read',
     category: 'Esports',
-    image: 'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=1200&q=80',
+    image: '',
     tags: ['Crossplay', 'Cloud Gaming', 'Gaming Tech', 'Future Tech']
   }
 ];
