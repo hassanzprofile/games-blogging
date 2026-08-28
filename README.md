@@ -23,7 +23,7 @@
 
 ##  About the Project
 
-**GameZone Blogs** is a modern, free-to-read gaming blog platform built for gamers who love staying updated with the latest game reviews, news, and community discussions. The site features a sleek, animated UI with 3D-inspired visuals, smooth transitions, and a fully responsive design — making it easy to browse blogs, reviews, and game listings on any device.
+**GameZone Blogs** is a modern, free-to-read gaming blog platform built for gamers who love staying updated with the latest game reviews, news, and community discussions. The site features a sleek, animated UI with 3D-inspired visuals, smooth transitions, and a fully responsive design  making it easy to browse blogs, reviews, and game listings on any device.
 
 Whether you're looking for an honest review before buying a game, the latest gaming news, or just want to explore trending titles, GameZone Blogs brings it all together in one clean, fast, and visually engaging platform.
 
@@ -61,7 +61,7 @@ This project is built using modern frontend technologies.
 ### Animation & Interaction
 - **Motion / Framer Motion** ; Smooth UI animations and transitions
 - Interactive hover effects
-- Scroll-based interactions
+- Scroll based interactions
 - Animated components
 - Dynamic visual effects
 
