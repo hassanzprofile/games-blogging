@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { NavSection, GameProduct } from './types';
 import { GAMES_DATA } from './data/games';
 import { FrameBackground180 } from './components/FrameBackground180';
@@ -167,6 +168,9 @@ export default function App() {
           setPreviewGame(g);
         }}
       />
+
+      {/* VERCEL WEB ANALYTICS */}
+      <Analytics />
 
     </div>
   );
