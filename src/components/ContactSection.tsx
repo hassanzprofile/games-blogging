@@ -80,7 +80,7 @@ export const ContactSection: React.FC = () => {
                 <input 
                   type="text"
                   required
-                  placeholder="e.g. Alex Vance"
+                  placeholder="e.g. Ali"
                   value={formData.name}
                   onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                   className="w-full px-4 py-3 rounded-xl bg-slate-900 border border-slate-800 text-white focus:border-white focus:outline-none"
@@ -92,7 +92,7 @@ export const ContactSection: React.FC = () => {
                 <input 
                   type="email"
                   required
-                  placeholder="gamer@freetogame.com"
+                  placeholder="gamer@freegames.com"
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                   className="w-full px-4 py-3 rounded-xl bg-slate-900 border border-slate-800 text-white focus:border-white focus:outline-none"
