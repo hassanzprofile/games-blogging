@@ -1,4 +1,3 @@
-// Web Audio API sci-fi sound effects synthesizer
 class SoundEngine {
   private ctx: AudioContext | null = null;
   private muted: boolean = false;
